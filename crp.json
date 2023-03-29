@@ -14,7 +14,7 @@
       },
       "nics" : [ {
         "label" : "nic-1",
-        "network" : "",
+        "network" : "network_1",
         "addresses" : [ ]
       }, {
         "label" : "nic-2",
