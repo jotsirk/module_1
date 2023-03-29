@@ -2,7 +2,11 @@
   "name" : "module_1",
   "cloneable" : true,
   "systems" : [ ],
-  "networks" : [ ],
+  "networks" : [ {
+    "name" : "network_1",
+    "type" : "SEGMENT",
+    "dedicated" : false
+  } ],
   "type" : "MODULE",
   "version" : 1
 }
