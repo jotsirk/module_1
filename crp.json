@@ -1,7 +1,33 @@
 {
   "name" : "module_1",
   "cloneable" : true,
-  "systems" : [ ],
+  "systems" : [ {
+    "id" : "64241d6e3ecc725093be32f3",
+    "version" : "master",
+    "hosts" : [ {
+      "name" : "host_1",
+      "dedicated" : false,
+      "capacity" : {
+        "cpu" : 1,
+        "memory" : 1,
+        "storage" : 1
+      },
+      "nics" : [ {
+        "label" : "nic-1",
+        "network" : "",
+        "addresses" : [ ]
+      }, {
+        "label" : "nic-2",
+        "network" : "",
+        "addresses" : [ ]
+      }, {
+        "label" : "nic-3",
+        "network" : "",
+        "addresses" : [ ]
+      } ],
+      "variables" : [ ]
+    } ]
+  } ],
   "networks" : [ {
     "name" : "network_1",
     "type" : "SEGMENT",
