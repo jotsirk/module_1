@@ -29,8 +29,8 @@
     } ]
   } ],
   "networks" : [ {
-    "name" : "network_1",
-    "type" : "SEGMENT",
+    "name" : "network_2",
+    "type" : "UPLINK",
     "dedicated" : false
   } ],
   "type" : "MODULE",
