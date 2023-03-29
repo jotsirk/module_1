@@ -1,0 +1,8 @@
+{
+  "name" : "module_1",
+  "cloneable" : true,
+  "systems" : [ ],
+  "networks" : [ ],
+  "type" : "MODULE",
+  "version" : 1
+}
